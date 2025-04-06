@@ -4,18 +4,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DevelopersLeague/EtherDocs/blob/main/Readme.md">
-    <img src="https://user-images.githubusercontent.com/56788568/231415603-6ba5f1a4-8332-4e4b-8e33-b314fdbb6b71.png" alt="Logo" width="" height="80">
-  </a>
 
 
   <p align="center">
     A Student Document Management System based on Ethereum Blockchain
-    <br />
-    <a href="https://github.com/DevelopersLeague/EtherDocs/blob/main/Readme.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://youtu.be/B_44aJ9hh6U" target="_blank"> Demo </a>
     
   </p>
 </div>
@@ -38,26 +30,11 @@
     </li>
     <li><a href="#technologies-used">Technologies used</a></li>
     <li><a href="#local-setup">Local Setup</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-## Contact
-
-- For help with local setup contact on [Telegram](https://telegram.me/ShyrenMore)
-- Don't forget to star ⭐ the repo
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<p align="center">
-
-
-https://user-images.githubusercontent.com/56788568/232264163-0fda63cf-b204-43a2-ac7e-ab7e82a53ad8.mp4
-
-
-</p> 
 
 
 Etherdocs is a project that aims to implement an efficient anti-forgery mechanism for academic documents, such as mark sheets, transcripts, diplomas, and other certificates. The goal is to ensure the authenticity of academic documents, reducing the incidence of counterfeit certificates, and saving time and financial resources for all parties involved in document verification.
