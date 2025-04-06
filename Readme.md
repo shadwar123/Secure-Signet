@@ -95,9 +95,9 @@ The Etherdocs project is needed because the current system of issuing and verify
 1. Issuer submits raw doc  and user's blockchain address
 2. Send raw document to Node server 
 3. Generation of UUID and QR
-Generate UUID and QR Code, append QR code and UUID to document
- Calculate hash of document with QR
-4. Upload doc with QR code to IPFS
+Generate UUID , add UUID to document
+ Calculate hash of document with doc path
+4. Upload doc with with UUID to IPFS
 5. React receives IPFS link & hash value of doc from Node server
 6. Store hash value, issuer address, user address and IPFS link
 7. React app returns a response: hash value, issuer and user address, IPFS link
@@ -157,27 +157,3 @@ By providing a mechanism for revoking certificates, the Etherdocs system ensures
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## License 📜
-
-[GNU General Public License v3.0](/LICENSE)
-
-## Authors
-
-**Project Guide**
-
-- Dr. Tasneem Mirza
-  - [LinkedIn](https://www.linkedin.com/in/tasneem-mirza-91513338/) • [Mail](mailto:tmm1207@gmail.com)
-
-**Developers**
-
-- Aniket More
-    - [LinkedIn](https://www.linkedin.com/in/aniket-more-2b97571b1/) • [Mail](mailto:aniketavinashmore33@gmail.com) 
-- Chirag Mahajan
-    - [Linkedin](https://www.linkedin.com/in/chirag-mahajan-b09144137/) • [Mail](mailto:chiragmahajan3101@gmail.com)
-- Shyren More
-    - [LinkedIn](https://www.linkedin.com/in/shyrenmore/) • [Mail](mailto:shyren.more30@gmail.com)
-- Shubhankar Mote
-    - [LinkedIn](https://www.linkedin.com/in/shubhankarmote/) • [Mail](mailto:shubhu.mote@gmail.com)
-    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
